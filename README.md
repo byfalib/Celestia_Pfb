@@ -19,7 +19,7 @@ sudo apt install git nodejs -y
 git clone https://github.com/byfalib/Celestia_Pfb.git
 ```
 ```
-cd Celestia_PFB
+cd Celestia_Pfb
 ```
 ### Install module dependencies
 
